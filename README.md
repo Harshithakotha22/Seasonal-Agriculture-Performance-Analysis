@@ -1,1 +1,1 @@
- 
+ Seasonal Agriculture Preformance Analysis is a data analytics project that studies agriculture performance across different seasons , regions , and farming conditions.The project  analyzes factors such as crop production, environmental conditions, farming practices, resource usage, and economic outcomes.
